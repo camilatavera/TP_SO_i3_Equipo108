@@ -21,5 +21,27 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 12:03:00
 
 
+nicolas scrofani
 
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.16  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 2800:810:4b7:8dee:eb81:f4ed:4eb0:baae  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::c8dd:6d36:71f1:a1d9  prefixlen 64  scopeid 0x20<link>
+        inet6 2800:810:4b7:8dee:c7a1:98f6:514a:38e0  prefixlen 64  scopeid 0x0<global>
+        ether 08:00:27:b3:28:f9  txqueuelen 1000  (Ethernet)
+        RX packets 314  bytes 279797 (279.7 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 313  bytes 40939 (40.9 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 195  bytes 17604 (17.6 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 195  bytes 17604 (17.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+12:28
 
