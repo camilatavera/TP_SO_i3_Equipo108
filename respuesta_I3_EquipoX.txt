@@ -1,0 +1,17 @@
+Camila Tavera
+
+a)Despues de estos cambios el master quedo con todos los archivos y las modificaciones que fueron haciendo Beta y Alfa
+
+b)Si
+
+c)
+(Me descargue tu rama, lo mismo q hiciste vos para descargar la mia)
+
+ Desde la rama master: 
+git merge scrofani
+
+
+
+
+
+
